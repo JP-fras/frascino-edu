@@ -50,7 +50,7 @@ const ListaMaterias = () => {
       {
         nombre: "Comunicacion y Redes 1",
         descripcion: "Señales analogicas, digitales, codificacion...",
-        ruta: "/materias/analisis-mat1",
+        ruta: "/materias/comu-redes1",
         icono: "🛰️",
       },
       {
